@@ -1,6 +1,6 @@
 {
     "name": "futzrocketstudio/menus",
-    "description": "A PHP menu manage",
+    "description": "A PHP menu manager",
     "type": "library",
     "require": {
         "php": "^8.1"
